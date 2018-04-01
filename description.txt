@@ -1,0 +1,2 @@
+The gas furnace dataset contains the gas rate and the percentage CO2 in the gas.
+It contains 296 rows and 2 columns. The data set consists of 296 input-output measurements sampled at a fixed interval of 9 seconds. The measured input represents the flow rate of the methane gas in a gas furnace and the measurement represents the concentration of carbon dioxide in the gas mixture flowing out of the furnace under a steady air supply. This dataset has been used extensively as a benchmark example for process identification.

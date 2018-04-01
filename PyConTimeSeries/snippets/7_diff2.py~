@@ -1,0 +1,1 @@
+log_air_passengers_diff_2 = log_air_passengers_diff - log_air_passengers_diff.shift()
